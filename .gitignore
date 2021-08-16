@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+
+.venv/
+.vscode/
+
+*.egg-info/
+
+*.swp
+
